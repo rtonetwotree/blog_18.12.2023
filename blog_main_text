@@ -1,0 +1,21 @@
+# Blog 2
+
+Back to the blogging! Phase one of this Data Science course was challenging and exciting. We dipped our toes in to learning Python, worked with .csv and .json file formats, and started 
+building visualizations in Tableau. Now in Phase 2 we have been introduced to SQL and are currently wading through the various statistical techniques that data scientists use to compare data points and
+assess leves of statistical similarity or dissimilarity. We also completed our first group project, which involved sorting through a FAA dataset containing info about air traffic incidents in the USA and using
+Tableau visualization techniques to present our findings.
+
+# Group Project Recollection
+  Experiencing the process of taking a raw data file and combing through its contents to uncover the insights contained within was quite interesting. The technical aspect of interacting with data, the 
+python/pandas data cleaning and exploration part of this project, was cool because i got to take raw data and transform it into a more usuable format. But my favorite part was creating visualizations using 
+Tableau. The goal is to make graphs that are informative and contain a weatlth of information while being visually simple and easy to interpret. This is super cool because it limits and shapes your options 
+for how the data will be used based on what you are able to present in a simple and straightforward way. Even if your data reveals an interesting trend, it's kinda useless unless you can convey the trend to 
+others graphically. My main graph for this project was a scatterplot showing some fatality incidence rates broken down by airplane make. The point of this graph was to highlight a treand of fatalatity incidence
+rates among different aircraft makes and to show that Airbus and Boeing specifically exist as outliers to this trend. The other element of this project that stood out to me was the collaboration amongst my team. 
+It was interesting to see how the three of us used our different strengths and abilities to break down the assignment and tackle different parts of the work. Kris is extremely diligent and detail oriented, and 
+went so far as to research individual airplane incidents that she was curous about! Juan was the workhorse of our team, and really took charge and made sure we were on track to deliver our assignment by it's 
+due date. He also has the most coding chops of anyone in our group, maybe of anyone in this class.
+
+#Overall
+  Overall, I'm excited to be in the swing of things as this course progresses. We are exposed to so much new information so rapidly that it can seem really overwhelming, but i'm starting to see how the proces 
+works: you're exposed to more info than you can digest, and then you are given projects that make you implement your new knowledge. 
